@@ -1,2 +1,2 @@
 # flappybirdjs-clone
-A clone of the Flappy Bird game made with purely Vanilla JS, HTML and CSS
+A clone of the Flappy Bird game made with pure Vanilla JS, HTML and CSS
